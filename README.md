@@ -88,7 +88,8 @@ This project is an authentication system built using Express.js and MongoDB. It 
 - **Response Body**: with JWT token
 - ![image](https://github.com/naveena52/Employee-Details/assets/106575001/af91bd94-a289-4742-ac50-e4501ff29edc)
 
-- **Response**:![image](https://github.com/naveena52/Employee-Details/assets/106575001/081da794-26ab-439a-b131-98ffad197a1a)
+- **Response**:
+- ![image](https://github.com/naveena52/Employee-Details/assets/106575001/081da794-26ab-439a-b131-98ffad197a1a)
 
 
 ## MongoDB Schema
