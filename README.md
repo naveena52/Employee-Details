@@ -21,7 +21,8 @@ This project is an authentication system built using Express.js and MongoDB. It 
 - **Request Body**:![image](https://github.com/naveena52/express-mongodb/assets/106575001/85bd5ac3-392a-470a-ad12-1269a8ed0b37)
 - **Response**:![image](https://github.com/naveena52/Employee-Details/assets/106575001/196e1256-75a0-4522-bc79-eb82089b965c)
 
-- **Generated OTP**:![image](https://github.com/naveena52/Employee-Details/assets/106575001/0b3d3733-0780-4ada-9bd4-22308d0ab7fd)
+- **Generated OTP**:
+- ![image](https://github.com/naveena52/Employee-Details/assets/106575001/0b3d3733-0780-4ada-9bd4-22308d0ab7fd)
 
 - **Exception Handling**:
   - **Case-1 :- Existing User**: If any User Try to Register with Existing Email then exception is handled with a message “user with this mail already exists Please Login”.
