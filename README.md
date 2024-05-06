@@ -36,10 +36,12 @@ This project is an authentication system built using Express.js and MongoDB. It 
 - **Method**: POST
 - **Purpose**: Verifies user's email using OTP sent to their email address.
 - **Request Body**:
- ![image](https://github.com/naveena52/Employee-Details/assets/106575001/96394e5a-1f6e-429d-9850-01e1ca1e7ba8)
+  
+   ![image](https://github.com/naveena52/Employee-Details/assets/106575001/96394e5a-1f6e-429d-9850-01e1ca1e7ba8)
 
 - **Response**:
- ![image](https://github.com/naveena52/Employee-Details/assets/106575001/acf8f05e-cefb-4b38-bcd3-3e6915f5316a)
+  
+    ![image](https://github.com/naveena52/Employee-Details/assets/106575001/acf8f05e-cefb-4b38-bcd3-3e6915f5316a)
 
 - **Exceptions Handled**:
   - **Case-1 :-Invalid OTP**: If the user is given the wrong OTP, handle the exception with the message “Invalid Otp”.
